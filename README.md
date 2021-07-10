@@ -7,7 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git eğitiminde oluşturduğumu
 
 ## Installation
 Öncelikle projeyi klonlayın.
-`git clone https://github.com/kuscuhasann/kodluyoruzilkrepo `
+```bash
+git clone https://github.com/kuscuhasann/kodluyoruzilkrepo 
+```
 
 ## Usage
 Projeyi klonladıktan sonra Visual Studio Code programını açınız.
